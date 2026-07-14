@@ -1,12 +1,16 @@
 <div align="center">
 
-# Hi 👋, I'm Guggilapu Satya Sai Arvind
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Guggilapu%20Satya%20Sai%20Arvind&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Java%20Developer&descAlignY=60"/>
 
-### 💻 Full Stack Java Developer | Spring Boot | React | Node.js
+# 👋 Hi, I'm Guggilapu Satya Sai Arvind
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Node.js+Enthusiast;Always+Learning+New+Technologies" />
+### 💻 Full Stack Java Developer • Spring Boot • React • Node.js
 
-<img src="https://komarev.com/ghpvc/?username=arvindpatnaik7&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Java+Developer;Spring+Boot+Backend+Developer;React+Frontend+Developer;Building+Scalable+Web+Applications;Open+to+Software+Developer+Opportunities"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=arvindpatnaik7&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -16,40 +20,28 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 Computer Science Graduate
+🎓 **B.Tech Graduate in Computer Science & Engineering**
 
-💼 Passionate Full Stack Developer
+💻 **Full Stack Java Developer** passionate about building scalable and user-friendly web applications.
 
-🌱 Currently learning
+### 🚀 Skills
 
-- Spring Boot
-- Node.js
-- System Design
+- ☕ Java
+- 🌱 Spring Boot
+- ⚛️ React
+- 🟢 Node.js
+- 🗄️ MySQL
+- 🔗 REST APIs
+- 🔐 JWT Authentication
+- 🌿 Git & GitHub
 
-🔭 Building
+🤖 Passionate about backend engineering, AI-powered applications and clean architecture.
 
-- Voices of Java Dev
-- AI Powered Study Assistant
+🧩 Regularly solving Data Structures & Algorithms problems.
 
-💬 Ask me about
+📧 **Email:** arvindguggilapu@gmail.com
 
-- Java
-- Spring Boot
-- React
-- REST APIs
-- MySQL
-
-📫 Reach me
-
-**arvindguggilapu@gmail.com**
-
-🌐 Portfolio
-
-https://arvind-portfolio-wine.vercel.app/
-
-✍ Blog
-
-https://voices-of-java-dev.onrender.com/
+🌐 **Portfolio:** https://arvind-portfolio-wine.vercel.app/
 
 ---
 
@@ -61,110 +53,55 @@ https://voices-of-java-dev.onrender.com/
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://instagram.com/arvind.patnaik7">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="mailto:arvindguggilapu@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/arvindpatnaik7">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://leetcode.com/arvindpatnaik7">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48"/>
 </a>
 
-<a href="https://www.hackerearth.com/@arvind557">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerearth.svg" width="40"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/arvindgugme7">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="40"/>
-</a>
-
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,js,c"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,js,html,css,mysql,git,github,postman,vscode"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎓 PlacePro
-Campus Placement Portal built using Spring Boot + MySQL + HTML + CSS + JavaScript
-
-### 🤖 AI Study Assistant
-AI powered learning assistant using Spring Boot + Groq API
-
-### 📝 Voices of Java Dev
-A blogging platform built with Spring Boot
-
-### 🍽 Restaurant Ordering Website
-Responsive food ordering website using HTML, CSS and JavaScript
+| Project | Tech Stack |
+|---------|------------|
+| 🎓 PlacePro | Spring Boot • JWT • MySQL |
+| 🤖 AI Study Assistant | Spring Boot • Groq API |
+| 🛒 AI Store Intelligence System | Java • React • AI |
+| 😴 Enhanced Sleep Disorder Prediction | Python • Machine Learning |
+| 🍽 Restaurant Ordering System | HTML • CSS • JavaScript |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arvindpatnaik7&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindpatnaik7&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arvindpatnaik7&theme=tokyonight"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arvindpatnaik7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindpatnaik7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arvindpatnaik7&theme=tokyonight&row=1&column=6"/>
-
+<img src="https://streak-stats.demolab.com?user=arvindpatnaik7&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -172,23 +109,46 @@ Responsive food ordering website using HTML, CSS and JavaScript
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindpatnaik7&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindpatnaik7&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 💡 Quote
+# 📋 GitHub Profile Summary
 
-> *"Code. Learn. Build. Repeat."*
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arvindpatnaik7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arvindpatnaik7&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arvindpatnaik7&theme=tokyonight"/>
+</p>
+
+---
+
+# 💡 Fun Java Snippet
+
+```java
+public class Developer {
+    public static void main(String[] args) {
+        while (true) {
+            learn();
+            build();
+            improve();
+        }
+    }
+}
+```
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+### "Code with curiosity. Build with purpose."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
